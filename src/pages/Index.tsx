@@ -16,7 +16,7 @@ const GoogleIcon = () => (
 
 const Index = () => {
   const handleCTAClick = () => {
-    window.open("https://www.chesy.site/2FL4HCSN/9XWD88J/?sub1=NjayInsurance", "_blank");
+    window.open("https://www.chesy.site/2FL4HCSN/9XWD88J/?sub1=fingoinsurance", "_blank");
   };
 
   return (
